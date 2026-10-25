@@ -2,9 +2,9 @@
 
 A practical software engineering and prompt engineering case study demonstrating how to identify, analyze, and fix critical program bugs using **Cursor AI** chain-prompting strategies.
 
-- **Author**: Ayan Khan (Enrolment No: `25BCON1174`)
+- **Author**: ROHIT AHIR (Enrolment No: `25BCON1143`)
 - **Institution**: JECRC University, Department of Computer Science & Engineering
-- **GitHub Repository**: [https://github.com/ayankhanbebea-lgtm/bug-fixing-using-cursor-ai](https://github.com/ayankhanbebea-lgtm/bug-fixing-using-cursor-ai)
+- **GitHub Repository**: https://github.com/rpahir2503-star/messy-python-code-improvement/edit/main/README.md
 
 ---
 
