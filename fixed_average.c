@@ -1,6 +1,6 @@
 /**
  * Course: Prompt Engineering / Problem Solving
- * Student: Ayan Khan (25BCON1174)
+ * Student: ROHIT AHIR (25BCON1143)
  * Assignment: Bug Fixing using Cursor AI (Corrected Version)
  * 
  * Corrections Made via Cursor AI 3-Step Chain Prompting:
